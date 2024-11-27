@@ -25,6 +25,14 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Vs%20Code-333333?style=flat&logo=vs-code&logoColor=007ACC)
 
+<br/>
+
+<a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true" />
+</a>
+
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dark"  >
+ 
 
 ## Onde me encontrar
 <a href="https://www.linkedin.com/in/gabriel-martins-ba77511bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
