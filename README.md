@@ -29,15 +29,15 @@
 
 <div>
 <a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true" alight="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alight="right"/>
 </a>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dark"  >
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula"  >
  </div>
 </br>
 
 **Top Linguagens**
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&langs_count=12&theme=dracula)
 
 ## Onde me encontrar
 <a href="https://www.linkedin.com/in/gabriel-martins-ba77511bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
