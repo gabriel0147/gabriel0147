@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Engenharia da Computação na Universidade Federal do Espírito Santo campus São Mateus
 - 🔭 Atualmente sou estagiário em Data Science pela Compass UOL e estou participando de uma Iniciação Científica em Mineração de Dados Educacionais(EDM)
-- 🌱 Estou sempre me aprofundando em Python com enfase em Machine Learning e Deep Learning
+- 🌱 Estou sempre me aprofundando em Python com ênfase em Machine Learning e Deep Learning
 
   ## Minhas Skills
 
@@ -25,14 +25,17 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Vs%20Code-333333?style=flat&logo=vs-code&logoColor=007ACC)
 
+**Estatísticas**
+
 <div>
 <a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true" alight="right"/>
 </a>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dark"  >
  </div>
+</br>
 
- ## Top Linguagens
+**Top Linguagens**
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact)
 
