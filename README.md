@@ -27,7 +27,7 @@
 
 <div>
 <a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true" alight="right"/>
 </a>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dark"  >
  </div>
