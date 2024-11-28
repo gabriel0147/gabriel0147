@@ -35,9 +35,9 @@
 
 <div>
 <a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alight="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alight="right" width="45%"/>
 </a>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula&locale=pt-br"  >
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula&locale=pt-br"width="48%"  >
  </div>
 </br>
 
