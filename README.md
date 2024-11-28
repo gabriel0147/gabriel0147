@@ -1,10 +1,15 @@
-## Sobre mim
+
+
+## Olá, meu nome é Gabriel Martins
+##
+**Um pouco sobre mim**
 
 - 🎓 Estudando Engenharia da Computação na Universidade Federal do Espírito Santo campus São Mateus
 - 🔭 Atualmente sou estagiário em Data Science pela Compass UOL e estou participando de uma Iniciação Científica em Mineração de Dados Educacionais(EDM)
 - 🌱 Estou sempre me aprofundando em Python com ênfase em Machine Learning e Deep Learning
+- 🤖 Sou entusiasta da área de robótica com arduino
 
-  ## Minhas Skills
+## Minhas Skills
 
 **Aplicações e dados**
 
@@ -24,20 +29,21 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Vs%20Code-333333?style=flat&logo=vs-code&logoColor=007ACC)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00599C)
 
 **Estatísticas**
 
 <div>
 <a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alight="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alight="right"/>
 </a>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula"  >
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula&locale=pt-br"  >
  </div>
 </br>
 
 **Top Linguagens**
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&langs_count=12&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&langs_count=12&theme=dracula&locale=pt-br)
 
 ## Onde me encontrar
 <a href="https://www.linkedin.com/in/gabriel-martins-ba77511bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
