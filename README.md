@@ -1,52 +1,87 @@
+# 👋 Olá, eu sou Gabriel Martins Sposito
 
+🎓 Estudante de Engenharia de Computação — UFES (São Mateus)
+💡 Foco em Ciência de Dados, Machine Learning e soluções orientadas a dados
+☁️ Experiência com AWS aplicada a IA
 
-## Olá, meu nome é Gabriel Martins
-##
-**Um pouco sobre mim**
+---
 
-- 🎓 Estudando Engenharia da Computação na Universidade Federal do Espírito Santo campus São Mateus
-- 🔭 Atualmente sou estagiário em Data Science pela Compass UOL e estou participando de uma Iniciação Científica em Mineração de Dados Educacionais(EDM)
-- 🌱 Estou sempre me aprofundando em Python com ênfase em Machine Learning e Deep Learning
-- 🤖 Sou entusiasta da área de robótica com arduino
+## 🚀 Sobre mim
 
-## Minhas Skills
+* 🔭 Atuação como **Cientista de Dados (estagiário) na Compass UOL**
+* 📊 Experiência prática com:
 
-**Aplicações e dados**
+  * Análise exploratória de dados (EDA)
+  * Engenharia de atributos
+  * Modelos de Machine Learning e Deep Learning
+* 🧠 Participação em **Iniciação Científica em Mineração de Dados Educacionais (EDM)**
+* ⚙️ Experiência com ambientes ágeis (**Scrum**)
+* 🤖 Interesse em robótica e sistemas embarcados com Arduino
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
+---
 
-**DevOps**
+## 🧠 Stack Técnica
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### 📊 Data Science & IA
 
-**Ferramentas de desenvolvimento**
+* Machine Learning (classificação, regressão, ensembles)
+* Deep Learning (CNN, LSTM)
+* NLP e Visão Computacional
+* Engenharia de atributos e modelagem estatística
 
-![Visual Studio Code](https://img.shields.io/badge/-Vs%20Code-333333?style=flat&logo=vs-code&logoColor=007ACC)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00599C)
+### 💻 Linguagens
 
-**Estatísticas**
+![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=Python\&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat\&logo=Java\&logoColor=007396)
+![C](https://img.shields.io/badge/-C-333333?style=flat\&logo=C\&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat\&logo=C%2B%2B\&logoColor=00599C)
 
-<div>
-<a href="https://github.com/gabriel0147" title="Perfil de Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" alight="right" width="45%"/>
-</a>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula&locale=pt-br"width="48%"  >
- </div>
-</br>
+### 🌐 Web & Banco de Dados
 
-**Top Linguagens**
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&langs_count=12&theme=dracula&locale=pt-br)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat\&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat\&logo=CSS3\&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
 
-## Onde me encontrar
-<a href="https://www.linkedin.com/in/gabriel-martins-ba77511bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:gabriel.gms0147@gmail.com">![Envie-me um e-mail!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/gabriel0147">![GitHub](https://img.shields.io/github/followers/gabriel0147?label=follow&style=social)</a>
+### ☁️ Cloud & Ferramentas
 
+* AWS (SageMaker, Bedrock)
+* Git & GitHub
+* Streamlit
+* VS Code
+* Arduino
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula"/>
+</div>
+
+---
+
+## 🔝 Linguagens mais utilizadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-ba77511bb/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gabriel.gms0147@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabriel0147?label=Follow\&style=social)](https://github.com/gabriel0147)
+
+---
+
+## ⚡ Diferenciais
+
+✔ Experiência prática em projetos reais de Data Science
+✔ Vivência com cloud (AWS) aplicada a IA
+✔ Base sólida em matemática e computação
+✔ Perfil analítico com foco em resolução de problemas
+
+---
