@@ -55,7 +55,7 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel0147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel0147&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0147&theme=dracula"/>
 </div>
 
@@ -64,7 +64,7 @@
 ## 🔝 Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel0147&layout=compact&theme=dracula"/>
 </div>
 
 ---
